@@ -1,5 +1,5 @@
 html, body {
-    background-color: rgb(230, 242, 255);
+    background-color: rgb(166, 209, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -9,9 +9,9 @@ h2{
     margin: 0;
 }
 header{
-    background-color:rgba(0, 16, 158, 0.2);
+    background-color:rgba(48, 56, 133, 0.8);
     display: grid;
-    grid-template-columns: 150px auto;
+    grid-template-columns: 300px auto;
 }
 nav {
     display: flex;
